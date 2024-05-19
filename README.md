@@ -1,4 +1,4 @@
-# React Movie App - ReactJS Projects
+# Cineflix - ReactJS Projects
 
 ![](movie.gif)
 
