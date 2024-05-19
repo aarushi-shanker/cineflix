@@ -1,4 +1,4 @@
-# Cineflix - ReactJS Projects
+# Cineflix - A ReactJS Backend Project
 
 ![](movie.gif)
 
